@@ -13,7 +13,7 @@
 * Client-side effect icons.
 * Anti-bodyblock alternative that works universally.
 * Zero desync - completely accurate location system.
-* Instant effect icons (e.g. Gungnir’s Bite)
+* Instant effect icons.
 * Integrated fps tax & client latency skill speed compensation.
 * In-built custom boss ping remover.
 * dynamicStabilityMode gives complete control over the stability of the module. The aim with this mode is to allow the option of a stabilized experience for users with unstable net.
